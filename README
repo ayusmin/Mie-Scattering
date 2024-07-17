@@ -1,0 +1,28 @@
+README:
+
+
+About:
+MATLAB codes to calculate the scattering, absorption and extinction coefficients of pristine as well as coated spheres using the resonance conditions for Mie Scattering. 
+
+Requirements:
+You need to have MATLAB software installed in your system.
+
+Uses:
+We have provided the step-by-step procedure in the comment lines of each code. The usage of each available code is summarized below.
+
+
+(1) Cal_Mie.m: The function generates the scattering, absorption and extinction coefficients for a given incident wavelength, when the boundary conditions of a pristine sphere has been satisfied.
+
+(2) Cal_Mie_coated.m: The function generates the scattering, absorption and extinction coefficients for a given incident wavelength, when the boundary conditions of a coated core-shell sphere has been satisfied.
+
+(3) Mie_IK.m: Code for Mie scattering calculation of pristine spheres.
+
+(4) Mie_IK_coated.m: Code for Mie scattering calculation of coted spheres.
+
+For more information and suggestions, contact to email: pandaayusmin97@gmail.com and nandab@iitm.ac.in
+
+References:
+
+(1) Panda, A., Sudakar, C. and Nanda, B.R.K. (2024), Enhancement of Quantum Efficiency in Perovskite Solar Cells Through Whispering Gallery Modes from Titanium Oxide Micro-Resonators. Adv. Photonics Res. 2300339. https://doi.org/10.1002/adpr.202300339
+
+(2) Ayusmin Panda "Enhancement of quantum efficiency in perovskite solar sells through Whispering Gallery Modes from TiO2 Micro-resonators", Proc. SPIE PC13014, Photonics for Solar Energy Systems X, PC1301409 (19 June 2024); https://doi.org/10.1117/12.3017915
